@@ -11,7 +11,7 @@ import SwiftUI
 struct CircuitShapesAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ShapeMainScreen()
         }
     }
 }
